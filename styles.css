@@ -1,0 +1,64 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px; 
+}
+
+header h1 {
+    font-size: 64px;
+    color: black;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 360px;
+    height: 360px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.text-info {
+    font-size: 24px;
+    margin: 0;
+}
+
+div {
+    margin: 40px;
+}
+
+body {
+    background-color: #E3C6F4;
+}
+
+#header {
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+button {
+    width: 96px;
+    height: 32px;
+    border-radius: 8px;
+    color: white;
+    background-color: #9954F1;
+    border: none;
+}
+
+button:hover {
+    background-color: #BA88FB;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
